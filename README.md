@@ -15,8 +15,9 @@
 
 [![Vivian Antunes](https://github-readme-stats.vercel.app/api?username=Vivian)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<h1>Connect white me: <h1/>
 <p>
-  <img src=" ![image](https://user-images.githubusercontent.com/107373751/174409898-92a30808-f678-4c39-9050-c198efd5ee87.png)>
+  <img src=" whithe: 100px; ![image](https://user-images.githubusercontent.com/107373751/174409898-92a30808-f678-4c39-9050-c198efd5ee87.png)>
  <a href="http://www.linkedin.com/in/Vivian-Antunes"/>
 
 
@@ -27,6 +28,6 @@
                                                     
 
 
-  
+   ![image](https://user-images.githubusercontent.com/107373751/174409898-92a30808-f678-4c39-9050-c198efd5ee87.png)
 
-![image](https://user-images.githubusercontent.com/107373751/174409898-92a30808-f678-4c39-9050-c198efd5ee87.png)
+
